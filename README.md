@@ -19,9 +19,9 @@ This project was bootstrapped with [Dart](https://dart.dev/).
    ```sh
    git clone https://github.com/mwanawabangona/Dart-terminal-calculator
    ```
-2. Install NPM packages
+2. [Install Dart](https://dart.dev/get-dart)
    ```sh
-   you need to have dart installed
+   if dart installed follow the terminal instructions below
    ```
 3. Run in terminal
    ```sh
@@ -38,7 +38,7 @@ This project was bootstrapped with [Dart](https://dart.dev/).
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]()](https://github.com/mwanawabangona/Dart-terminal-calculator/issues).
+Feel free to check the [issues page](https://github.com/mwanawabangona/Dart-terminal-calculator/issues).
 
 ## Show your support
 
