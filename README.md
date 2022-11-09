@@ -8,9 +8,6 @@
 
 - [Dart]([https://es.reactjs.org/](https://dart.dev/))
 
-
-# Getting Started with Create React App
-
 This project was bootstrapped with [Dart](https://dart.dev/).
 
 ### Installation
@@ -20,7 +17,7 @@ This project was bootstrapped with [Dart](https://dart.dev/).
    git clone https://github.com/mwanawabangona/Dart-terminal-calculator
    ```
 2. [Install Dart](https://dart.dev/get-dart)
-   ```sh
+   
    if dart installed follow the terminal instructions below
    ```
 3. Run in terminal
