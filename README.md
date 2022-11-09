@@ -8,9 +8,6 @@
 
 - [Dart]([https://es.reactjs.org/](https://dart.dev/))
 
-
-# Getting Started with Create React App
-
 This project was bootstrapped with [Dart](https://dart.dev/).
 
 ### Installation
